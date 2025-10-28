@@ -63,11 +63,11 @@ THIN:
 END
 
 ### Output:
-<img width="1919" height="1187" alt="Screenshot 2025-10-18 121435 2" src="https://github.com/user-attachments/assets/1affa4ef-ea1b-4296-90b4-ad7dc1da6ed0" />
+![WhatsApp Image 2025-10-28 at 11 06 39_1f8400a7](https://github.com/user-attachments/assets/0a4aa0b2-12aa-42cf-9898-4c63cfa85eb7)
+
 
 ### Manual Calculations:
-![WhatsApp Image 2025-10-28 at 11 03 19_eb935905](https://github.com/user-attachments/assets/6a028459-cfe8-4421-9537-fe50d014a7c7)
-
+![WhatsApp Image 2025-10-28 at 11 08 54_0657a7e9](https://github.com/user-attachments/assets/4f2bd031-ec11-4af3-ae24-743e78340344)
 
 
 ### Result:
