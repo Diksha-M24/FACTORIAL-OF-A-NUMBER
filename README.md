@@ -66,7 +66,8 @@ END
 <img width="1919" height="1187" alt="Screenshot 2025-10-18 121435 2" src="https://github.com/user-attachments/assets/1affa4ef-ea1b-4296-90b4-ad7dc1da6ed0" />
 
 ### Manual Calculations:
-![WhatsApp Image 2025-10-24 at 19 54 41_28086fa2](https://github.com/user-attachments/assets/2e86e257-48d2-4ef4-bd21-87a86cfcbc95)
+![WhatsApp Image 2025-10-28 at 11 03 19_eb935905](https://github.com/user-attachments/assets/6a028459-cfe8-4421-9537-fe50d014a7c7)
+
 
 
 ### Result:
